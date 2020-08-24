@@ -1,10 +1,8 @@
 var cacheName = 'v1.0';
 
 var cacheAssets = [
-    'https://www.seotechman.com/p/about-us.html',
-    'https://www.seotechman.com/p/contact.html',
-    'https://2.bp.blogspot.com/-aviW30yPCqU/Xyxtded-z9I/AAAAAAAADWs/PGekQc6rB1oRD0Y5YFmYcVwq5hV7zQdRgCLcBGAsYHQ/s1600/virm.jpg',
-    'https://cdn.statically.io/img/3.bp.blogspot.com/-xLbi9KYreic/XodqLbtoLqI/AAAAAAAAChA/Zp7WF0KkCc04EwRoDZduXJEKM7NRa2RXQCLcBGAsYHQ/s32/favicon-32x32.png'
+    '/p/about-us.html',
+    '/p/contact.html'
 ]
 
 // installation
